@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolymathBytes.WebApi", "PolymathBytes.WebApi.csproj", "{55C66C17-1D17-444C-81A3-22AA8593980B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9DCA73CE-8F3C-4A35-9212-0871208D4FDE}"
+	ProjectSection(SolutionItems) = preProject
+		compose.yaml = compose.yaml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolymathBytes.Data", "PolymathBytes.Data\PolymathBytes.Data.csproj", "{95BA1583-FE49-4C3B-9472-ED66CB76156B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55C66C17-1D17-444C-81A3-22AA8593980B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55C66C17-1D17-444C-81A3-22AA8593980B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55C66C17-1D17-444C-81A3-22AA8593980B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55C66C17-1D17-444C-81A3-22AA8593980B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95BA1583-FE49-4C3B-9472-ED66CB76156B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95BA1583-FE49-4C3B-9472-ED66CB76156B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95BA1583-FE49-4C3B-9472-ED66CB76156B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95BA1583-FE49-4C3B-9472-ED66CB76156B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
